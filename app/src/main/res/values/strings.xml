@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rise &amp; Grind, Go Beyond!</string>
+    <string name = "start">Start</string>
+    <string name = "stop">Stop</string>
+    <string name = "assign">Assign time to a challenge</string>
+    <string name = "chrono">Chronometer</string>
+    <string name = "challengesTitle">Challenges</string>
+    <string name = "UserChallenges">Your Challenges</string>
+    <string name = "SearchChallenges">Search Challenges</string>
+    <string name = "NewChallenge">New Challenge</string>
+
+</resources>
