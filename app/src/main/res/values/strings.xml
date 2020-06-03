@@ -22,4 +22,16 @@
     <string name="GoalTypeHeader">Do you want to...</string>
     <string name="GoalType1">Waste no time doing this!</string>
     <string name="GoalType2">Do this as much as I can!</string>
+    <string name="ChallengesHeader">Challenges</string>
+    <string name="searchHint">Search challenges</string>
+    <string name="ChallengeNameError">Challenge name not found</string>
+    <string name="ProgressTimeAsk">Tell us today\'s results</string>
+    <string name="ProgressHeader">This is your progress so far</string>
+    <string name="YourGoal">Your Goal:</string>
+    <string name="ThisWeek">This Week:</string>
+    <string name="Total">Total:</string>
+    <string name="Starting">Staring date:</string>
+    <string name="NotFoundError">Error! Information not found!</string>
+    <string name="ModifyChallenge">Modify</string>
+    <string name="AbandonChallenge">Abandon</string>
 </resources>
