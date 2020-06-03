@@ -1,12 +1,25 @@
 <resources>
     <string name="app_name">Rise &amp; Grind, Go Beyond!</string>
-    <string name = "start">Start</string>
-    <string name = "stop">Stop</string>
-    <string name = "assign">Assign time to a challenge</string>
-    <string name = "chrono">Chronometer</string>
-    <string name = "challengesTitle">Challenges</string>
-    <string name = "UserChallenges">Your Challenges</string>
-    <string name = "SearchChallenges">Search Challenges</string>
-    <string name = "NewChallenge">New Challenge</string>
-
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="assign">Assign time to a challenge</string>
+    <string name="chrono">Chronometer</string>
+    <string name="challengesTitle">Challenges</string>
+    <string name="UserChallenges">Your Challenges</string>
+    <string name="SearchChallenges">Search Challenges</string>
+    <string name="NewChallenge">New Challenge</string>
+    <string name="WelcomeMSG">Welcome back!</string>
+    <string name="AccManage">Account</string>
+    <string name="UserNotLoaded"> Couldn\'t load user </string>
+    <string name="Cancel">Cancel</string>
+    <string name="Confirm">Done!</string>
+    <string name="DescriptionHint">Challenge Description</string>
+    <string name="CreationDescriptionHeader">What is it about?</string>
+    <string name="TimeAsk">Set your goal</string>
+    <string name="ChallengeCreationHeader">Time for a new challenge!</string>
+    <string name="nameHint">Name</string>
+    <string name="Frequency">Frequency</string>
+    <string name="GoalTypeHeader">Do you want to...</string>
+    <string name="GoalType1">Waste no time doing this!</string>
+    <string name="GoalType2">Do this as much as I can!</string>
 </resources>
