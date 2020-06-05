@@ -34,4 +34,11 @@
     <string name="NotFoundError">Error! Information not found!</string>
     <string name="ModifyChallenge">Modify</string>
     <string name="AbandonChallenge">Abandon</string>
+    <string-array name="FrequencyOptions">
+        <item>Daily</item>
+        <item>At least once a week</item>
+        <item>At least once a month</item>
+        <item>Not often</item>
+        <item>Want to avoid doing this</item>
+    </string-array>
 </resources>
