@@ -179,8 +179,8 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@mipmap/ic_launcher"
-        tools:srcCompat="@mipmap/ic_launcher" />
+        app:srcCompat="@mipmap/app_logo_big_foreground"
+        tools:srcCompat="@mipmap/app_logo_big_foreground" />
 
     <View
         android:id="@+id/divider5"
