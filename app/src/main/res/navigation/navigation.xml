@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/navigation"
+    app:startDestination="@id/mainActivity">
+
+    <activity
+        android:id="@+id/mainActivity"
+        android:name="com.example.risegrindgobeyond.MainActivity"
+        android:label="MainActivity" />
+    <activity
+        android:id="@+id/challengeProgress"
+        android:name="com.example.risegrindgobeyond.ChallengeProgress"
+        android:label="ChallengeProgress" />
+    <activity
+        android:id="@+id/challenge_Creation"
+        android:name="com.example.risegrindgobeyond.Challenge_Creation"
+        android:label="Challenge_Creation" />
+    <action
+        android:id="@+id/action_global_challengeProgress"
+        app:destination="@id/challengeProgress" />
+    <action
+        android:id="@+id/action_global_challenge_Creation"
+        app:destination="@id/challenge_Creation" />
+</navigation>
